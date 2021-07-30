@@ -3,53 +3,97 @@
 using namespace std;
 
 
-int main()
-{
+int main(){
+    
     int a;
+    
     int b;
+    
     int c;
+    
     int d;
+    
     int e;
+    
     int f;
+    
     int g;
+    
     int h;
+    
     int i;
+    
     int j;
+    
     int k;
+    
     int l;
+    
     int m;
+    
     int n;
+    
     int o;
+    
     int p;
+    
     int q;
+    
     int r;
+    
     int s;
+    
     int t;
+    
     int u;
+    
     int v;
+    
     int w;
+    
     int y;
+    
     int z;
+    
+    
     
     int x;
     int type;
+    
     int sum;
+    
     int sub;
+    
     int prod;
+    
     int divid;
+    
     int twoRoot;
+    
     int threeRoot;
+    
     int cosine;
+    
     int sine;
+    
     int tangent;
+    
     int invcos;
+    
     int invsin;
+    
     int invtan;
+    
     int invcosh;
+    
     int invsinh;
+    
     int invtanh;
+    
     int absval;
+    
     int diffe;
+    
     
     cout << "Enter 1 for addition. Enter 2 for subtraction. Enter 3 for multiplication. Enter 4 for division. Enter 5 for Square roots. Enter 6 for Cube roots. Enter 7 for cosine. Enter 8 for sine. Enter 9 for tangent. Enter 10 for inverse cosine. Enter 11 for inverse sine. Enter 12 for inverse tangent. Enter 13 for hyperbolic cosine. Enter 14 for hyperbolic sine. Enter 15 for hyperbolic tangent. Enter 16 for Absolute Value. Enter 17 to find the difference.:  ";
     cin >> x;
