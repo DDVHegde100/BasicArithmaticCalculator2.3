@@ -194,8 +194,11 @@ int main()
         
         cout << "Enter the number\n";
         cin >> u;
+        
+        cout << "Enter the number\n";
+        cin >> v;
     
-        diffe=fdim(u);
+        diffe=fdim(u,v);
         cout << "The difference in value of the number is " <<diffe;
         
     }else if(x>17){
