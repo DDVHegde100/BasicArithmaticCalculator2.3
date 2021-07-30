@@ -26,6 +26,10 @@ int main()
     int s;
     int t;
     int u;
+    int v;
+    int w;
+    int y;
+    int z;
     
     int x;
     int type;
